@@ -1,0 +1,14 @@
+#imgFixed{
+  color: aqua;
+  background: olivedrab;
+}
+#pos{
+  font-size: 20px;
+  text-decoration: underline;
+  text-align: justify;
+}
+#bord{
+  background-image: url(../img/IN-logos.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

@@ -1,0 +1,19 @@
+#imgFixed{
+  color: aqua;
+  background: olivedrab;
+}
+#pos{
+  font-size: 20px;
+  text-decoration: underline;
+  text-align: justify;
+}
+.bord{
+  background-image: url(https://www.imgacademy.com/sites/default/files/2013-slide1.jpg);
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+}
+#tex{
+  line-height: 15px;
+  letter-spacing: 10px;
+  word-spacing: 50px;
+}
